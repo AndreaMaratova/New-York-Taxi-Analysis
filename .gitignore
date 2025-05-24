@@ -170,5 +170,19 @@ cython_debug/
 # Ruff stuff:
 .ruff_cache/
 
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code / JetBrains
+.vscode/
+.idea/
+
+# Mac
+.DS_Store
+
+.csv
+
 # PyPI configuration file
 .pypirc
