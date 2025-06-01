@@ -3,3 +3,5 @@
 Data: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 Metdata: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+
+New York Wather Data: https://www.kaggle.com/datasets/aadimator/nyc-weather-2016-to-2022?resource=download&select=NYC_Weather_2016_2022.csv
