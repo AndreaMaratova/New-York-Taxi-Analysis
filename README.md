@@ -1,3 +1,6 @@
+
+![Výstřižek](https://github.com/user-attachments/assets/027c812f-117d-4cb8-8b50-7bdac205b5a5)
+
 # New York Taxi Analysis
 
 Data: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
