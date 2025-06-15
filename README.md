@@ -6,7 +6,7 @@
 ## Problem definition
 Predict the average money spent on taxi rides for each region of New York given day and hour.
 
-This problem is a supervides regression problem. Supervised because we have the actual value of the value we are trying to predict and regression because what we are trying to predict is a continuous variable (as opposed to catgorical).
+This problem is a supervised regression problem. Supervised because we have the actual value of the value we are trying to predict and regression because what we are trying to predict is a continuous variable (as opposed to categorical).
 
 ## Data sources
 
@@ -27,7 +27,7 @@ I used the data for Feb 2019 (originally wanted Jan, but the data file was too l
 ![image](https://github.com/user-attachments/assets/529f309b-b8fe-4205-960f-b85d89e82240 "Zero and negative values")
 
 
-**Too-high values for total_amount**: there were som hihg values for total_amount, some were close to $700.000. As there are unlikely values for a taxi ride, I decided to set an upper limit to $200. There were only 1.035 records with value over upper limit, which is not a great loss of inpormation. 
+**Too-high values for total_amount**: there were some high values for total_amount, some were close to $700.000. As there are unlikely values for a taxi ride, I decided to set an upper limit to $200. There were only 1.035 records with value over upper limit, which is not a great loss of information. 
 
 ![image](https://github.com/user-attachments/assets/12a6153c-16f9-40fb-bd5c-d8cba1951f49 "Too high values")
 
