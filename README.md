@@ -91,7 +91,8 @@ Here is the True vs. Predicted value plot for the tuned Random Forest model. X-a
 
 As you can see form the plot above, there is still a plenty of room for improvement. 
 
-- Limiting the regions/Boroughs inclued in this analysis. We could focus this model only for predicting taxi fare for Manhattan, Brooklyn and Queens regions by removing the rest of records. It would make this model more precise for there regions but since our main goal from the beginning was to predict fare in the whole New York City I used all the records.  
+- Limiting the regions/Boroughs inclued in this analysis. We could focus this model only for predicting taxi fare for Manhattan, Brooklyn and Queens regions by removing the rest of records. It would make this model more precise for there regions but since our main goal from the beginning was to predict fare in the whole New York City I used all the records.
+  
 | Borough | Value counts |
 | --- | --- |
 | Manhattan | 41021 |
